@@ -41,7 +41,7 @@ Go to [localhost](http://localhost:8081) page.
 2. `report-service-ui` containing client side logic. [Details](report-service-ui/README.md)
 
 ## Thanks!
-Any questions or problems give me a shout on email avklimakov@gmail.com
+Any questions or problems give me a shout on email awaisable@gmail.com
 
 ## License
 Copyright 2020 Anton Klimakov\
